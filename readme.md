@@ -20,7 +20,7 @@ Go to the project directory
 
 Install Puppeteer
 ```bash
-  cd npm install puppeteer
+  npm install puppeteer
 ```
 
 Start Cari.js
